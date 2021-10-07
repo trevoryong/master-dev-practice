@@ -1,0 +1,10 @@
+#!/bin/bash
+echo "this is the dev branch "
+
+id 
+echo 
+lsblk
+echo
+hostname
+echo
+echo $HOME
