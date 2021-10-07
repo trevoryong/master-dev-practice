@@ -8,3 +8,6 @@ echo
 hostname
 echo
 echo $HOME
+echo
+echo "this is whack"
+
